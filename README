@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1122
+
+A syntax highlighting file for LINGO (Linear, INteractive and General Optimizer).
+
+LINGO is a language and tool for modelling and solving optimization problems (http://www.lindo.com/cgi/frameset.cgi?leftlingo.html;lingof.html). 
+
+This syntax is NOT related to Macromedia Director Lingo scripting language. If you came here by mistake, please browse vimscript #503, vimscript #1010 or vimscript #1012.
+
+Please e-mail comments and suggestions with subject "vim".
